@@ -1,6 +1,6 @@
 # javascript-cookies
 
-´´´js
+```js
 /* JavaScript cookies */
 // https://github.com/js-cookie/js-cookie
 console.log('Data info!')
